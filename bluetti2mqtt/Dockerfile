@@ -19,7 +19,7 @@ RUN apk add --no-cache \
 
 # Install bluetti_mqtt and other pip packages
 RUN pip install asyncio-mqtt==0.14.0 paho-mqtt==1.6.1
-RUN pip install git+https://github.com/jesherman/bluetti_mqtt
+RUN pip install git+https://github.com/srsgh42/bluetti_mqtt
 
 # Set permissions for run script
 RUN chmod a+x /run.sh
