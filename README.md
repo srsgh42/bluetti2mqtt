@@ -1,4 +1,4 @@
-# Bluetti2MQTT-jesherman fork
+# Bluetti2MQTT-srsgh42 fork
 
 This is a fork of Bluetti2MQTT which hacks together a few fixes based on prior people's own fixes so that it works as of April 2025:
 
@@ -11,7 +11,7 @@ This is a fork of Bluetti2MQTT which hacks together a few fixes based on prior p
 ```
 Add this URL to your Home Assistant Repository:
 
-https://github.com/jesherman/bluetti2mqtt
+https://github.com/srsgh42/bluetti2mqtt
 ```
 
 Refresh the page (hard refresh may be required), scroll down to Bluetti2MQTT and install the add-on.
